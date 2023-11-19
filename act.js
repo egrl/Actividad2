@@ -34,6 +34,14 @@ workflow.task("Tarea 3", ()=> {
     console.log("Identificación de oportunidades de automatización")
 })
 
+workflow.task("Tarea 4", ()=> {
+    console.log("Aumento de transparencia")
+})
+
+workflow.task("Tarea 5", ()=> {
+    console.log("Eliminación de micro gestión")
+})
+
 
 workflow.run()
 
